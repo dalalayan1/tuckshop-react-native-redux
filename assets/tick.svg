@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="52px" height="46px" viewBox="0 0 52 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Group 6</title>
+    <desc>Created with Sketch.</desc>
+    <g id="app" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard1" transform="translate(-277.000000, -100.000000)">
+            <g id="card_tenant" transform="translate(16.000000, 84.000000)">
+                <g id="Group-6" transform="translate(261.000000, 16.000000)">
+                    <g id="discount" fill="#7CC955">
+                        <rect id="Rectangle-4-[4]" x="0" y="0" width="52" height="46" rx="2"></rect>
+                    </g>
+                    <g id="noun_tick_317767" transform="translate(11.000000, 12.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                        <path d="M29.1111111,4.37037037 L12.4814815,21.6666667 C11.5555556,22.6296296 10.0740741,22.6296296 9.14814815,21.6666667 L0.851851852,12.962963 C-0.0740740741,12 -0.0740740741,10.4444444 0.851851852,9.48148148 C1.77777778,8.51851852 3.25925926,8.51851852 4.18518519,9.48148148 L10.8518519,16.4444444 L25.8148148,0.888888889 C26.7407407,-0.0740740741 28.2222222,-0.0740740741 29.1481481,0.888888889 C30.037037,1.85185185 30.037037,3.40740741 29.1111111,4.37037037 Z" id="Path"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
